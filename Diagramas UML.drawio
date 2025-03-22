@@ -59,8 +59,8 @@
         <mxCell id="v7FEq4-VS3XR-d21zDfw-42" value="Abri Vscode" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="217.06" y="130" width="58.25" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="v7FEq4-VS3XR-d21zDfw-44" value="VsCode" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" parent="1" vertex="1">
-          <mxGeometry x="235.13" y="84" width="26" height="16" as="geometry" />
+        <mxCell id="v7FEq4-VS3XR-d21zDfw-44" value="VsCode" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="239" y="64" width="26" height="16" as="geometry" />
         </mxCell>
         <mxCell id="v7FEq4-VS3XR-d21zDfw-47" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="v7FEq4-VS3XR-d21zDfw-46" target="v7FEq4-VS3XR-d21zDfw-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
