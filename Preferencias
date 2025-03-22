@@ -1,0 +1,43 @@
+{
+  "language": "",
+  "configVersion": null,
+  "customFonts": [],
+  "libraries": "general;uml;er;bpmn;flowchart;basic;arrows2",
+  "customLibraries": [
+    "L.scratchpad",
+    "SC%3A%5CUsers%5Csamue%5COneDrive%5CDesktop%5CCarpetas%20de%20Draw%5CDiagrama%20de%20Actividad.drawio"
+  ],
+  "plugins": [],
+  "recentColors": [
+    "0019FF",
+    "1F1F1F",
+    "629499",
+    "990000",
+    "636363",
+    "1000FF",
+    "FF142B",
+    "0011FF"
+  ],
+  "formatWidth": 240,
+  "createTarget": false,
+  "pageFormat": {
+    "x": 0,
+    "y": 0,
+    "width": 827,
+    "height": 1169
+  },
+  "search": true,
+  "showStartScreen": true,
+  "gridColor": "#d0d0d0",
+  "darkGridColor": "light-dark(#d0d0d0, light-dark(#d0d0d0, #FF142B))",
+  "autosave": true,
+  "resizeImages": null,
+  "openCounter": 9,
+  "version": 18,
+  "unit": 1,
+  "isRulerOn": false,
+  "ui": "sketch",
+  "darkMode": true,
+  "pages": true,
+  "sketchMode": false
+}
